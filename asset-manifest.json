@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.css": "/Durgaprasad-Portfolio/static/css/main.88c6067a.css",
-    "main.js": "/Durgaprasad-Portfolio/static/js/main.b78dfc99.js",
+    "main.css": "/Durgaprasad-Portfolio/static/css/main.40b62678.css",
+    "main.js": "/Durgaprasad-Portfolio/static/js/main.a067c1d2.js",
     "static/js/453.2c022847.chunk.js": "/Durgaprasad-Portfolio/static/js/453.2c022847.chunk.js",
-    "static/media/Project2.png": "/Durgaprasad-Portfolio/static/media/Project2.8667b1ffa3ba614c09de.png",
+    "static/media/TemperatureConverter.png": "/Durgaprasad-Portfolio/static/media/TemperatureConverter.8667b1ffa3ba614c09de.png",
+    "static/media/miniPortfolio.png": "/Durgaprasad-Portfolio/static/media/miniPortfolio.9b967c4802bb3f820470.png",
     "static/media/ShopNext.png": "/Durgaprasad-Portfolio/static/media/ShopNext.7fcb2f88df37bcf073d8.png",
+    "static/media/MyFirstPortfolio.png": "/Durgaprasad-Portfolio/static/media/MyFirstPortfolio.1dab86602b3cca0c0d92.png",
+    "static/media/WeatherAPI-App.png": "/Durgaprasad-Portfolio/static/media/WeatherAPI-App.dddc7e730ca1b67d0bdc.png",
+    "static/media/DURGAPRASAD PILLI.pdf": "/Durgaprasad-Portfolio/static/media/DURGAPRASAD PILLI.579dd3962250e25f06d0.pdf",
+    "static/media/Currencyconverter.png": "/Durgaprasad-Portfolio/static/media/Currencyconverter.890a1bd1bd3b1f9293f4.png",
     "static/media/about-pic.jpg": "/Durgaprasad-Portfolio/static/media/about-pic.eb8f61365ba62bd5df67.jpg",
     "static/media/durga.jpg": "/Durgaprasad-Portfolio/static/media/durga.1a6fe248b3bb5252ac11.jpg",
     "static/media/GmritLogo.jpg": "/Durgaprasad-Portfolio/static/media/GmritLogo.8159698e6f9dd6ea16c9.jpg",
@@ -18,12 +23,12 @@
     "static/media/up-arrow-icon.png": "/Durgaprasad-Portfolio/static/media/up-arrow-icon.42bdd6ddb835b92bfcc0.png",
     "static/media/down-arrow-icon.png": "/Durgaprasad-Portfolio/static/media/down-arrow-icon.d2ebb4ac58137c816c06.png",
     "index.html": "/Durgaprasad-Portfolio/index.html",
-    "main.88c6067a.css.map": "/Durgaprasad-Portfolio/static/css/main.88c6067a.css.map",
-    "main.b78dfc99.js.map": "/Durgaprasad-Portfolio/static/js/main.b78dfc99.js.map",
+    "main.40b62678.css.map": "/Durgaprasad-Portfolio/static/css/main.40b62678.css.map",
+    "main.a067c1d2.js.map": "/Durgaprasad-Portfolio/static/js/main.a067c1d2.js.map",
     "453.2c022847.chunk.js.map": "/Durgaprasad-Portfolio/static/js/453.2c022847.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88c6067a.css",
-    "static/js/main.b78dfc99.js"
+    "static/css/main.40b62678.css",
+    "static/js/main.a067c1d2.js"
   ]
 }
