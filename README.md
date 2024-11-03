@@ -1,4 +1,4 @@
-click on this link to preview: https://durgaprasad09102003.github.io/durgaprasad-portfolio/
+click on this link to preview: https://durgaprasad09102003.github.io/Durgaprasad-Portfolio/
 
 # Getting Started with Create React App
 
