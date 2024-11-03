@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Durgaprasad-Portfolio/static/css/main.edafc55b.css",
+    "main.css": "/Durgaprasad-Portfolio/static/css/main.6f24b8a3.css",
     "main.js": "/Durgaprasad-Portfolio/static/js/main.b9b3a8b6.js",
     "static/js/453.69f3745b.chunk.js": "/Durgaprasad-Portfolio/static/js/453.69f3745b.chunk.js",
     "static/media/movieSystem.png": "/Durgaprasad-Portfolio/static/media/movieSystem.9d676fab5354b15b1fdb.png",
@@ -26,12 +26,12 @@
     "static/media/up-arrow-icon.png": "/Durgaprasad-Portfolio/static/media/up-arrow-icon.42bdd6ddb835b92bfcc0.png",
     "static/media/down-arrow-icon.png": "/Durgaprasad-Portfolio/static/media/down-arrow-icon.d2ebb4ac58137c816c06.png",
     "index.html": "/Durgaprasad-Portfolio/index.html",
-    "main.edafc55b.css.map": "/Durgaprasad-Portfolio/static/css/main.edafc55b.css.map",
+    "main.6f24b8a3.css.map": "/Durgaprasad-Portfolio/static/css/main.6f24b8a3.css.map",
     "main.b9b3a8b6.js.map": "/Durgaprasad-Portfolio/static/js/main.b9b3a8b6.js.map",
     "453.69f3745b.chunk.js.map": "/Durgaprasad-Portfolio/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edafc55b.css",
+    "static/css/main.6f24b8a3.css",
     "static/js/main.b9b3a8b6.js"
   ]
 }
