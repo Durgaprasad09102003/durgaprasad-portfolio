@@ -126,13 +126,13 @@
 
     .Projectrow{
         width: 100vw;
-        min-width: 420px;
+        min-width: 360px;
     }
 
 
     .ProjectCard{
         width: 100vw;
-        min-width: 420px;
+        min-width: 360px;
         padding: 5px;
         margin: 20px 0;
     }

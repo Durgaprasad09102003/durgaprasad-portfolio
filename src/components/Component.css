@@ -10,8 +10,8 @@ html {
     justify-content: center;
     align-items: center;
     padding-top: 20px;
-    width: 100%;
-    min-width: 430px;
+    width: 100vw;
+    min-width: 360px;
     z-index: 100;
     background-color: #121212;
 }
@@ -71,6 +71,7 @@ html {
     color:#fff;
     margin: 0 40px;
     cursor: default;
+    padding-top:15px;
   }
 
   .nav-item a{
@@ -245,7 +246,6 @@ html {
 
   .cont{
     margin: 12px;
-    
     max-width: 300px;
   }
 
@@ -257,10 +257,9 @@ html {
   }
 
   .media, .media a{
-    gap: 30px;
+    gap: 20px;
     padding: 10px;
     max-width: 300px;
-    width: 50px;
   }
 
   
@@ -308,6 +307,13 @@ html {
   border-radius: 8px;
   overflow: hidden;
   flex-shrink: 1;
+}
+
+@media (max-width: 420px) {
+  .About-box, .Educontent{
+    width: 100vw;
+  }
+
 }
 
 .about-details {
@@ -408,7 +414,7 @@ html {
 
 .educard{
   width: 380px;
-  min-width: 380px;
+  min-width: 360px;
   height:150px;
   background-color: #ffffff; 
   border-radius: 15px;
@@ -419,6 +425,12 @@ html {
   justify-content: center;
   align-items: center;
   border: 2px solid #00ff88;
+}
+
+@media (max-width: 420px) {
+  .educard{
+    width: 100vw;
+  }
 }
 
 .educardimg{
