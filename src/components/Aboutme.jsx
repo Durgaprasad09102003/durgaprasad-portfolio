@@ -35,13 +35,18 @@ constructor() {
     {` = `}
     <span className="string">'durgaprasadpilli02@gmail.com'</span>
     {`;
+    this.`}
+    <span className="property">phoneNumber</span>
+    {` = `}
+    <span className="string">8639981992</span>
+    {`;
 }
 `}
 <span className="function">workExperience</span>
 {`() {
 return [
     { `}
-    <span className="string">'05/08/2024-23/09/2024'</span>
+    <span className="string">'05/08/2024-23/11/2024'</span>
     {`: `}
     <span className="string">'Full-stack Developer(MERN STACK)/Intern at BrainOVision'</span>
     {` },

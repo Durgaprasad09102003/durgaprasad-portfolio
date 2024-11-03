@@ -215,6 +215,7 @@ html {
     margin: 0;
     position: relative;
     z-index:50;
+    max-width: 300px;
   }
   .Contact h2{
     margin: 5px 0px;
@@ -236,7 +237,6 @@ html {
     flex-direction: row;
     align-items: center;
     gap:10px;
-    background-color: whitesmoke;
     color: #212121;
     text-decoration: none;
     margin: 0px;
@@ -245,6 +245,8 @@ html {
 
   .cont{
     margin: 12px;
+    
+    max-width: 300px;
   }
 
   .cont img{
@@ -257,6 +259,8 @@ html {
   .media, .media a{
     gap: 30px;
     padding: 10px;
+    max-width: 300px;
+    width: 50px;
   }
 
   

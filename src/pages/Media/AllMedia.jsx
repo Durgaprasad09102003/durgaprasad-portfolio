@@ -3,12 +3,12 @@ import "./AllMedia.css";
 
 function AllMedia() {
   return (
-    <div className='Visume media'>
-      <div className='template media'>
-        <div className='videobar media'>
+    <div className='Visume Visumemedia'>
+      <div className='template Visumemedia'>
+        <div className='videobar Visumemedia'>
 
         </div>
-        <div className='naming media'>
+        <div className='naming Visumemedia'>
           <hr />
           <h2>DURGA PRASAD PILLI VISUME</h2>
         </div>

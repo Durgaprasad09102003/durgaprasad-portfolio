@@ -22,7 +22,7 @@ function Footer() {
 
     <div className='footer'>
       <div className='footermedia'>
-        <h1>MY VERSION</h1>
+        <h1>FOLLOW ME</h1>
             <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap' }} className='footermediaicons'>
                 {icons.map((icon, index) => (
                     <a key={index} href={icon.link} target="_blank" rel="noopener noreferrer">

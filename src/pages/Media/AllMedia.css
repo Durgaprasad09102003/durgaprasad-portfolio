@@ -1,4 +1,5 @@
-.media{
+.Visumemedia{
+    min-width: 430px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +21,6 @@
 .template{
     width: fit-content;
     height: fit-content;
-    background-color: green;
     flex-direction: column;
 }
 
@@ -52,4 +52,17 @@
 
 .naming h2{
     color: black;
+}
+
+@media screen and (max-width: 640px) {
+    .videobar, .naming {
+        width: 100vw;
+    }
+
+        
+    .Visume{
+        width: 100vw;
+        min-width: 428px;
+    }
+
 }
